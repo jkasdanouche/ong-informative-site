@@ -1,0 +1,13 @@
+@font-face {
+	font-family: ash;
+	src: url(../fnt/Ash.otf);
+	font-weight: 200;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: verdana;
+	src: url(../fnt/Verdana.ttf);
+	font-style: normal;
+}
